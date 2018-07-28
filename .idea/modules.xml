@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-loblaws.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-loblaws.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-loblaws_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-loblaws_main.iml" group="selenium-loblaws" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-loblaws_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-loblaws_test.iml" group="selenium-loblaws" />
+    </modules>
+  </component>
+</project>
